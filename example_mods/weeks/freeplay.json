@@ -1,0 +1,159 @@
+{
+	"storyName": "Freeplay Songs",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"-Freeplay-",
+			"blank",
+			[
+				0,
+				73,
+				253
+			]
+		],
+		[
+			"Bonus Song",
+			"480",
+			[
+				0,
+				73,
+				253
+			]
+		],
+		[
+			"frustration",
+			"480",
+			[
+				0,
+				73,
+				253
+			]
+		],
+		[
+			"furiosity",
+			"Furiousity480",
+			[
+				0,
+				0,
+				50
+			]
+		],
+		[
+			"place",
+			"ccatral2011",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"apprentice",
+			"cb",
+			[
+				255,
+				0,
+				0
+			]
+		],
+				[
+			"unlikely-rivals",
+			"cb",
+			[
+				255,
+				0,
+				0
+			]
+		],
+				[
+			"bonedoggle",
+			"Ruler",
+			[
+				0,
+				0,
+				0
+			]
+		],
+
+				[
+			"bot-trot",
+			"NZGFScratcher",
+			[
+				195,
+				0,
+				255
+			]
+		],
+		[
+			"phantasm",
+			"480",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"thunderstorm",
+			"480",
+			[
+				0,
+				73,
+				253
+			]
+		],
+		[
+			"robux",
+			"bobux480",
+			[
+				26,
+				84,
+				201
+			]
+		],
+		[
+			"mealie",
+			"ccatral2011",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"memory",
+			"480",
+			[
+				0,
+				73,
+				253
+			]
+		],
+		[
+			"og",
+			"480",
+			[
+				0,
+				73,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Freeplay",
+	"hiddenUntilUnlocked": false
+}

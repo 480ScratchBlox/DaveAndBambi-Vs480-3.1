@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Impressive job, you did really good there."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Another one?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I suppose that was just a warmup."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Let's actually see what you got."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop Beep"
+		}
+	]
+}

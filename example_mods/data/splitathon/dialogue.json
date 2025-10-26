@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Ok, so as I was saying,",
+			"boxState": "normal",
+			"portrait": "480",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "We did not really settle it last time.",
+			"boxState": "normal",
+			"portrait": "480",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "annoyed",
+			"text": "That is why I came prepared.",
+			"boxState": "normal",
+			"portrait": "480",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "annoyed",
+			"text": "I was thinking about having a 10 minute showdown.",
+			"boxState": "normal",
+			"portrait": "480",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I can set it up right now.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "annoyed",
+			"text": "Huh! Then go ahead.",
+			"boxState": "normal",
+			"portrait": "480",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "splitathon",
+			"text": "When, will I join in?",
+			"boxState": "normal",
+			"portrait": "ccatral2011",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "You will get your chance later, CCatral2011.",
+			"boxState": "normal",
+			"portrait": "480",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "determined",
+			"text": "Let's do this!",
+			"boxState": "normal",
+			"portrait": "480",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Bap!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

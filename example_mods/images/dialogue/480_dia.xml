@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="480_dia.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="phone0000" x="0" y="0" width="221" height="350" frameX="-96" frameY="-16" frameWidth="378" frameHeight="378"/>
+	<SubTexture name="determined0000" x="439" y="0" width="218" height="350" frameX="-99" frameY="-16" frameWidth="378" frameHeight="378"/>
+	<SubTexture name="talk0000" x="221" y="0" width="218" height="350" frameX="-99" frameY="-16" frameWidth="378" frameHeight="378"/>
+	<SubTexture name="annoyed0000" x="657" y="0" width="218" height="350" frameX="-99" frameY="-16" frameWidth="378" frameHeight="378"/>
+</TextureAtlas>

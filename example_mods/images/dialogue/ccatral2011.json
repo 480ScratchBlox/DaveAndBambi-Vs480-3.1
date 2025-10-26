@@ -1,0 +1,103 @@
+{
+	"position": [
+		210,
+		140
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 2.65,
+	"image": "ccatral2011",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "talk00",
+			"loop_name": "talk00"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_name": "excited00",
+			"loop_name": "excited00"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "phonebored",
+			"idle_name": "phonebored00",
+			"loop_name": "phonebored00"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "phone",
+			"idle_name": "phone00",
+			"loop_name": "phone00"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "phonehappy",
+			"idle_name": "phonehappy00",
+			"loop_name": "phonehappy00"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "scared",
+			"idle_name": "scared00",
+			"loop_name": "scared00"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "splitathon",
+			"idle_name": "splitathon00",
+			"loop_name": "splitathon00"
+		}
+	]
+}

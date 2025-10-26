@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Insanity480End.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="0" width="237" height="353" frameX="-78" frameY="-13" frameWidth="377" frameHeight="377"/>
+	<SubTexture name="idle0001" x="237" y="0" width="231" height="353" frameX="-84" frameY="-13" frameWidth="377" frameHeight="377"/>
+</TextureAtlas>

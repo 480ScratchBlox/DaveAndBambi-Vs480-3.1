@@ -1,0 +1,132 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Yo, I found them!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "talk",
+			"text": "Find who?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "You two!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "talk",
+			"text": "How did you find out about us in the first place?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "phonebored",
+			"text": "No reason?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "sad",
+			"text": "Let me answer this call first.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "phone",
+			"text": "Hello?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "phone",
+			"text": "Hello man. I just need you to ask you a question first.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "phonehappy",
+			"text": "What? I just found these guys at your house.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "phone",
+			"text": "I just need you to occupy them. Can you just do that?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "phone",
+			"text": "This line is pretty long and I need to do something with them.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "phone",
+			"text": "Ok, bye!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "phone",
+			"text": "What a se-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "phonebored",
+			"text": "That took a while.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "talk",
+			"text": "One more song!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "Animations/Cheer"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "Animations/Sad"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Animations/Dance",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CCatral2011-Support",
+	"position": [-40, 530],
+	"healthicon": "ccatral2011",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [210, -120],
+	"sing_duration": 4,
+	"scale": 2.1,
+	"_editor_isPlayer": false
+}

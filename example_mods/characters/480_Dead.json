@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 30,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Dead00"
+		}
+	],
+	"vocals_file": "dad",
+	"no_antialiasing": false,
+	"image": "characters/480_Death",
+	"position": [-20, 160],
+	"healthicon": "480",
+	"flip_x": true,
+	"healthbar_colors": [0, 36, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 6.1,
+	"scale": 1.6,
+	"_editor_isPlayer": true
+}

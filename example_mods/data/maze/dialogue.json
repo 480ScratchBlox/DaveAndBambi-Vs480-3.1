@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Now can you leave us alone?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Just a second.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "phone",
+			"text": "Hello?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "phone",
+			"text": "Oh, hello there.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "phonebored",
+			"text": "What is taking you this long? It has been several hours in the sun.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "phone",
+			"text": "I don't know? Maybe there's a item in high demand.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "phone",
+			"text": "Or someone might have been killed and they turned the place into a crime scene.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "phonebored",
+			"text": "Can you just hurry up.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "phone",
+			"text": "Fine, see you soon.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "talk",
+			"text": "I should have just left all along. And now they have blocked the exits.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480"
+		},
+		{
+			"expression": "talk",
+			"text": "One more song?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011"
+		},
+		{
+			"expression": "confused",
+			"text": "We are going to be here for a while, so rap away.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

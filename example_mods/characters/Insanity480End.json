@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 30,
+			"name": "idle00",
+			"indices": []
+		}
+	],
+	"vocals_file": "dad",
+	"no_antialiasing": false,
+	"image": "characters/Insanity480End",
+	"position": [-50, 300],
+	"healthicon": "480",
+	"flip_x": false,
+	"healthbar_colors": [0, 36, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 0.1,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

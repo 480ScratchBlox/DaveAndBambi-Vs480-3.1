@@ -1,0 +1,63 @@
+{
+	"position": [
+		130,
+		110
+	],
+	"dialogue_pos": "left",
+	"scale": 2.5,
+	"image": "480_dia",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "talk0",
+			"loop_name": "talk0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "annoyed0",
+			"idle_name": "annoyed0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "determined",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "determined0",
+			"idle_name": "determined0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "phone",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "phone0",
+			"idle_name": "phone0"
+		}
+	]
+}

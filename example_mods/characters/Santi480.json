@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Idle00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Left00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Down00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				160
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Right00",
+			"indices": []
+		}
+	],
+	"vocals_file": "dad",
+	"losing_colors": [
+		0,
+		36,
+		255
+	],
+	"no_antialiasing": false,
+	"image": "characters/Santi480",
+	"shake_duration": 0,
+	"position": [
+		100,
+		250
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthbar_colors": [0, 36, 255],
+	"healthicon": "480",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		36,
+		255
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		0,
+		36,
+		255
+	],
+	"scale": 1
+}

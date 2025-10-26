@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-120,
+		-190
+	],
+	"no_antialiasing": true,
+	"scale": 1.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "talk0",
+			"idle_name": "talk0"
+		}
+	],
+	"image": "480Furious"
+}

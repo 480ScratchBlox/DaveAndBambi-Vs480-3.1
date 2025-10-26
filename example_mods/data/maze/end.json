@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "I am finally back."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ccatral2011",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "What took you so long?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "tired",
+			"text": "Nothing?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "On why I kept you here."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "After we relax, there is something I want to do for a while."
+		}
+	]
+}

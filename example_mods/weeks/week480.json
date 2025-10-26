@@ -1,0 +1,50 @@
+{
+	"storyName": "Vs. 480",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "480",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"House",
+			"480",
+			[
+				0,
+				73,
+				253
+			]
+		],
+		[
+			"Insanity",
+			"480",
+			[
+				0,
+				73,
+				253
+			]
+		],
+		[
+			"Polygonized",
+			"Furiousity480",
+			[
+				0,
+				0,
+				50
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

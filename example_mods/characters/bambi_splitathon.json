@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-43, -12],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-96, -91],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-96, 27],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-170, -6],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right00",
+			"indices": []
+		},
+		{
+			"offsets": [-61, 1],
+			"indices": [],
+			"fps": 24,
+			"anim": "corn",
+			"loop": false,
+			"name": "splitathon corn0"
+		},
+		{
+			"offsets": [-168, -8],
+			"indices": [],
+			"fps": 24,
+			"anim": "confused",
+			"loop": false,
+			"name": "splitathon confused00"
+		}
+	],
+	"vocals_file": "dad",
+	"no_antialiasing": false,
+	"image": "characters/SplitathonCCatral2011",
+	"position": [0, 340],
+	"healthicon": "ccatral2011",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [50, -60],
+	"sing_duration": 6.1,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

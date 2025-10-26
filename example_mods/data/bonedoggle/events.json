@@ -1,0 +1,186 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"3rdstrum",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"holy shit sand undertale appears",
+						"",
+						""
+					],
+					[
+						"sans section",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				23970,
+				[
+					[
+						"sans idle",
+						"",
+						""
+					],
+					[
+						"object play animation",
+						"sans, sleep",
+						"30, 10, sans"
+					],
+					[
+						"sans section",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25270,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					],
+					[
+						"papyrus THE FUCK",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"object play animation",
+						"sans, sleep2",
+						"-8, -122, sans"
+					],
+					[
+						"papyrus mad",
+						"true ",
+						""
+					]
+				]
+			],
+			[
+				28100,
+				[
+					[
+						"papyrus no mad",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29600,
+				[
+					[
+						"sans animation",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29700,
+				[
+					[
+						"papyrus mad",
+						"",
+						""
+					]
+				]
+			],
+			[
+				29850,
+				[
+					[
+						"object play animation",
+						"sans, sleep3",
+						"30, 10, sans"
+					]
+				]
+			],
+			[
+				30400,
+				[
+					[
+						"papyrus no mad",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31400,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"sans animation",
+						"true",
+						""
+					],
+					[
+						"sans idle",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"whiteflash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"GF",
+						"CCatral2011 - Copy"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Change Character",
+						"GF",
+						"Axolotl_Ruler"
+					],
+					[
+						"whiteflash",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

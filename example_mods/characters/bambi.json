@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "splitathondown"
+		},
+		{
+			"offsets": [
+				0,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "splitathonleft"
+		},
+		{
+			"offsets": [
+				0,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "splitathonup"
+		},
+		{
+			"offsets": [
+				0,
+				-155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "splitathonright"
+		},
+		{
+			"offsets": [
+				0,
+				-155
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "splitathonidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bambi",
+	"position": [
+		520,
+		280
+	],
+	"healthicon": "bambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		180,
+		0
+	],
+	"camera_position": [
+		50,
+		140
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

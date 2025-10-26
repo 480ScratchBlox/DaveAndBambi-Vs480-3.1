@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NZGFscratcher.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down0000" x="0" y="508" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="down0001" x="254" y="508" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="idle0000" x="762" y="508" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="idle0001" x="254" y="254" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="idle0002" x="0" y="254" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="idle0003" x="1016" y="0" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="idle0004" x="0" y="0" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="left0000" x="508" y="254" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="left0001" x="762" y="0" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="right0000" x="762" y="254" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="right0001" x="254" y="0" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="up0000" x="508" y="0" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="up0001" x="508" y="508" width="254" height="254" frameX="2" frameY="2" frameWidth="250" frameHeight="250"/>
+</TextureAtlas>

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "left00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -10],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [50, 0],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "right00",
+			"indices": []
+		}
+	],
+	"vocals_file": "dad",
+	"no_antialiasing": false,
+	"image": "characters/AxolotlRuler_Updated",
+	"position": [0, 260],
+	"healthicon": "ruler",
+	"flip_x": true,
+	"healthbar_colors": [2, 2, 2],
+	"camera_position": [330, -400],
+	"sing_duration": 6.1,
+	"scale": 2.5,
+	"_editor_isPlayer": true
+}

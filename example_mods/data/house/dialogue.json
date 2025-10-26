@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, welcome to my town. What brings you around here?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It seems you want to rap battle."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "Well, there is no one here. I suppose I can do so."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "480",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "But let's do a little warm up first."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!"
+		}
+	]
+}

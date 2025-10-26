@@ -1,0 +1,50 @@
+{
+	"storyName": "Him and his fast raps",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "ccatral2011",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"blocked",
+			"ccatral2011",
+			[
+				250,
+				0,
+				0
+			]
+		],
+		[
+			"corn-theft",
+			"ccatral2011",
+			[
+				250,
+				0,
+				0
+			]
+		],
+		[
+			"maze",
+			"ccatral2011",
+			[
+				250,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "CCatral2011"
+}
