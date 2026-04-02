@@ -81,12 +81,8 @@
 		],
 				[
 			"bonedoggle",
-			"Ruler",
-			[
-				0,
-				0,
-				0
-			]
+			"axolotl-ruler",
+			[255, 249, 217]
 		],
 
 				[

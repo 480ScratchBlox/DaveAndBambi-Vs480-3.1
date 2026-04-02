@@ -1,55 +1,55 @@
 {
 	"animations": [
 		{
+			"offsets": [0, 0],
 			"loop": false,
-			"offsets": [-90, 0],
+			"fps": 12,
 			"anim": "idle",
-			"fps": 12,
-			"name": "idle00",
-			"indices": []
+			"indices": [],
+			"name": "idle00"
 		},
 		{
+			"offsets": [0, 0],
 			"loop": false,
-			"offsets": [-80, 0],
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "left00",
-			"indices": []
+			"indices": [],
+			"name": "left00"
 		},
 		{
+			"offsets": [0, 0],
 			"loop": false,
-			"offsets": [-100, -10],
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "down00",
-			"indices": []
+			"indices": [],
+			"name": "down00"
 		},
 		{
+			"offsets": [0, 0],
 			"loop": false,
-			"offsets": [-80, 10],
+			"fps": 12,
 			"anim": "singUP",
-			"fps": 12,
-			"name": "up00",
-			"indices": []
+			"indices": [],
+			"name": "up00"
 		},
 		{
+			"offsets": [0, 0],
 			"loop": false,
-			"offsets": [-90, 0],
-			"anim": "singRIGHT",
 			"fps": 12,
-			"name": "right00",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right00"
 		}
 	],
 	"vocals_file": "dad",
 	"no_antialiasing": false,
-	"image": "characters/AxoNew",
-	"position": [-50, 320],
-	"healthicon": "ruler",
+	"image": "characters/axolotl_ruler",
+	"position": [-60, 280],
+	"healthicon": "axolotl-ruler",
 	"flip_x": false,
-	"healthbar_colors": [2, 2, 2],
-	"camera_position": [-270, -250],
+	"healthbar_colors": [255, 249, 217],
+	"camera_position": [-120, -150],
 	"sing_duration": 4,
-	"scale": 2.7,
+	"scale": 1.8,
 	"_editor_isPlayer": false
 }

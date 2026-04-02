@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="axolotl_ruler.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="down0000" x="584" y="326" width="221" height="258" frameX="-135" frameY="-101" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="down0001" x="462" y="1009" width="221" height="255" frameX="-137" frameY="-104" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="down0002" x="683" y="1009" width="221" height="254" frameX="-137" frameY="-105" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="downmiss0000" x="883" y="353" width="221" height="258" frameX="-135" frameY="-101" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="downmiss0001" x="239" y="1009" width="223" height="255" frameX="-134" frameY="-104" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="hey0000" x="1352" y="0" width="233" height="333" frameX="-109" frameY="-27" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="hey0001" x="1352" y="666" width="229" height="335" frameX="-111" frameY="-25" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="idle0000" x="1585" y="989" width="220" height="327" frameX="-127" frameY="-32" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="idle0001" x="1585" y="661" width="220" height="328" frameX="-126" frameY="-31" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="idle0002" x="1585" y="332" width="221" height="329" frameX="-124" frameY="-30" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="idle0003" x="1585" y="0" width="221" height="332" frameX="-120" frameY="-28" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="idle0004" x="1352" y="1001" width="221" height="332" frameX="-120" frameY="-28" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="left0000" x="292" y="326" width="292" height="326" frameX="-27" frameY="-33" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="left0001" x="0" y="0" width="296" height="326" frameX="-22" frameY="-33" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="left0002" x="296" y="0" width="295" height="326" frameX="-23" frameY="-33" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="leftmiss0000" x="0" y="326" width="292" height="326" frameX="-27" frameY="-33" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="leftmiss0001" x="591" y="0" width="292" height="326" frameX="-27" frameY="-33" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="right0000" x="1116" y="333" width="236" height="333" frameX="-145" frameY="-27" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="right0001" x="1116" y="666" width="234" height="334" frameX="-144" frameY="-26" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="right0002" x="1352" y="333" width="231" height="333" frameX="-144" frameY="-27" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="rightmiss0000" x="1116" y="0" width="236" height="333" frameX="-145" frameY="-27" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="rightmiss0001" x="0" y="1009" width="239" height="327" frameX="-144" frameY="-32" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="up0000" x="0" y="652" width="226" height="357" frameX="-109" frameY="-3" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="up0001" x="452" y="652" width="226" height="354" frameX="-110" frameY="-6" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="up0002" x="678" y="652" width="226" height="353" frameX="-110" frameY="-7" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="upmiss0000" x="226" y="652" width="226" height="357" frameX="-109" frameY="-3" frameWidth="420" frameHeight="382"/>
+	<SubTexture name="upmiss0001" x="883" y="0" width="233" height="353" frameX="-101" frameY="-2" frameWidth="420" frameHeight="382"/>
+</TextureAtlas>
